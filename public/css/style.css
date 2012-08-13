@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image:
+    url('img/blocks-5.png'),
+    url('img/blocks-4.png'),
+    url('img/blocks-3.png'),
+    url('img/blocks-2.png'),
+    url('img/blocks-1.png'),
+    url('img/bg.png');
+  background-position:
+    top center,
+    top center,
+    top center,
+    top center,
+    top center,
+    top center;
+}
+
+header{
+    color:#fff;
+}
+
+a {
+  color: #00B7FF;
+}

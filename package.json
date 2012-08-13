@@ -1,0 +1,21 @@
+{
+  "name": "procedurally-generated",
+  "subdomain": "procedurallygenerated",
+  "domains": [
+    "jessefoltz.com",
+    "www.jessefoltz.com",
+    "procedurallygenerated.org",
+    "www.procedurallygenerated.org"
+  ],
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.1-4",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "express": "3.0.0rc2",
+    "jade": "*"
+  }
+}
